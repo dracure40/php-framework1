@@ -1,0 +1,17 @@
+{
+    "name": "redtable/php-framework1",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "dracure",
+            "email": "dracure@redtable.kr"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "php-framework1\\" : "src/"
+        }
+    },
+    "require": {}
+}
