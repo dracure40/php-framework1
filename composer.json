@@ -1,11 +1,12 @@
 {
-    "name": "redtable/php-framework1",
+    "name": "dracure/php-framework1",
     "type": "library",
     "license": "MIT",
+    "version": "0.1",
     "authors": [
         {
             "name": "dracure",
-            "email": "dracure@redtable.kr"
+            "email": "dracure40@gmail.com"
         }
     ],
     "autoload": {
