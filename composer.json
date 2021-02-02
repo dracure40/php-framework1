@@ -10,7 +10,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "php-framework1\\" : "src/"
+            "Framework1\\" : "src/"
         }
     },
     "require": {}
